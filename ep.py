@@ -14,7 +14,7 @@ def maximo(arr):
 
 def meio(arr):
     # retorna o valor exatamente ao meio do array
-    return
+    return arr[len(arr) // 2]
 
 def media(arr):
     # retorna a media dos valores do array
