@@ -40,7 +40,7 @@ def subtracao(arr, n):
 
 def soma_arr(arr1, arr2):
     # soma de dois arrays elemento-a-elemento e retorna
-    return
+    return [x + y for x, y in zip(arr1, arr2)]
 
 def produto_interno(arr1, arr2):
     # retorna o produto interno entre dois vetores
