@@ -29,7 +29,7 @@ def soma(arr, n = 1):
     # exemplo
     # entrada: arr = [1, 1, 1], n = 5
     # saida: arr = [6, 6, 6]
-    return
+    return [x + n for x in arr]
 
 def subtracao(arr, n):
     # subtrai n em todos os valores do array e retorna o novo array
