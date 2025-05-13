@@ -10,7 +10,7 @@ def minimo(arr):
 
 def maximo(arr):
     # retorna o maior valor do array
-    return
+    return max(arr)
 
 def meio(arr):
     # retorna o valor exatamente ao meio do array
