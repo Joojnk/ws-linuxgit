@@ -22,7 +22,7 @@ def media(arr):
 
 def moda(arr):
     # retorna o valor que mais se repete no array
-    return
+    return max(set(arr), key=arr.count)
 
 def soma(arr, n = 1):
     # soma n a todos os valores do array e retorna o novo array
