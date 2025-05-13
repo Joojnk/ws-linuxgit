@@ -1,0 +1,11 @@
+48a7fbf função produto interno OK
+ab1b192 função soma de arrays OK
+494b71d função subtração OK
+ec53b6d função soma Ok
+25e2650 função moda OK
+b795af6 função media OK
+a986608 função meio OK
+f5b78e2 função maximo OK
+e49bee1 Mudança do README para uma abordagem mais clara
+6e8eb70 novos arquivos : ep.py                  testes.py
+db2675d Initial commit
