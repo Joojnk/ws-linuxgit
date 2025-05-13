@@ -18,7 +18,7 @@ def meio(arr):
 
 def media(arr):
     # retorna a media dos valores do array
-    return
+    return sum(arr) / len (arr)
 
 def moda(arr):
     # retorna o valor que mais se repete no array
