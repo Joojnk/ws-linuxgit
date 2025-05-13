@@ -36,7 +36,7 @@ def subtracao(arr, n):
     # exemplo
     # entrada: arr = [1, 1, 1], n = 5
     # saida: arr = [-4, -4, -4]
-    return
+    return [x - n for x in arr]
 
 def soma_arr(arr1, arr2):
     # soma de dois arrays elemento-a-elemento e retorna
